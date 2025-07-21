@@ -1,0 +1,301 @@
+Zona_geografica,Zona_altitudinal,Calidad_aire,Ruido,Satisfaccion_areas_verdes,Percepcion_contaminacion_agua,Nivel_conciencia_ambiental,Acceso_basura,Percepcion_riesgo_inundacion,Participacion_ambiental
+Este,Baja,Buena,Bajo,Media,Baja,Muy alta,Inexistente,Alto,Media
+Centro,Alta,Mala,Alto,Alta,Baja,Alta,Adecuado,Bajo,Alta
+Este,Alta,Buena,Moderado,Media,Alta,Alta,Limitado,Bajo,Media
+Este,Alta,Mala,Alto,Baja,Alta,Muy alta,Adecuado,Bajo,Baja
+Centro,Alta,Buena,Bajo,Baja,Alta,Alta,Inexistente,Alto,Media
+Centro,Media,Buena,Alto,Alta,Media,Alta,Limitado,Medio,Media
+Este,Alta,Regular,Moderado,Media,Alta,Baja,Adecuado,Alto,Baja
+Norte,Baja,Regular,Bajo,Alta,Baja,Media,Adecuado,Medio,Alta
+Este,Baja,Mala,Moderado,Alta,Alta,Alta,Limitado,Medio,Media
+Este,Alta,Regular,Bajo,Media,Baja,Alta,Limitado,Bajo,Media
+Este,Alta,Mala,Bajo,Media,Media,Alta,Adecuado,Medio,Baja
+Este,Baja,Regular,Alto,Media,Baja,Baja,Inexistente,Alto,Alta
+Centro,Baja,Buena,Alto,Baja,Baja,Media,Adecuado,Alto,Media
+Este,Media,Mala,Moderado,Alta,Alta,Muy alta,Limitado,Medio,Baja
+Norte,Baja,Mala,Alto,Alta,Alta,Baja,Adecuado,Bajo,Media
+Centro,Media,Buena,Alto,Baja,Baja,Baja,Limitado,Bajo,Baja
+Norte,Media,Mala,Bajo,Media,Alta,Media,Limitado,Alto,Alta
+Norte,Media,Mala,Alto,Baja,Media,Media,Inexistente,Bajo,Alta
+Norte,Media,Regular,Bajo,Baja,Media,Baja,Limitado,Medio,Alta
+Norte,Media,Mala,Bajo,Baja,Alta,Muy alta,Limitado,Medio,Alta
+Centro,Alta,Buena,Bajo,Alta,Media,Baja,Inexistente,Alto,Media
+Centro,Baja,Regular,Moderado,Baja,Alta,Media,Limitado,Medio,Media
+Norte,Media,Regular,Moderado,Alta,Baja,Muy alta,Inexistente,Alto,Alta
+Norte,Baja,Buena,Moderado,Alta,Baja,Media,Inexistente,Medio,Alta
+Centro,Baja,Buena,Bajo,Alta,Media,Muy alta,Limitado,Alto,Alta
+Centro,Media,Regular,Moderado,Media,Alta,Alta,Limitado,Bajo,Media
+Centro,Alta,Mala,Moderado,Alta,Alta,Media,Adecuado,Medio,Alta
+Este,Media,Regular,Alto,Alta,Media,Media,Inexistente,Medio,Alta
+Este,Alta,Buena,Moderado,Media,Baja,Baja,Adecuado,Alto,Alta
+Este,Baja,Regular,Moderado,Alta,Media,Media,Limitado,Alto,Baja
+Norte,Alta,Buena,Bajo,Baja,Baja,Media,Adecuado,Medio,Alta
+Este,Alta,Regular,Bajo,Baja,Alta,Alta,Inexistente,Alto,Baja
+Norte,Alta,Mala,Bajo,Alta,Baja,Media,Adecuado,Medio,Baja
+Norte,Baja,Regular,Bajo,Media,Media,Alta,Inexistente,Bajo,Alta
+Este,Baja,Regular,Bajo,Baja,Alta,Alta,Limitado,Alto,Baja
+Norte,Alta,Buena,Bajo,Media,Media,Alta,Limitado,Medio,Alta
+Este,Alta,Buena,Moderado,Media,Media,Alta,Inexistente,Bajo,Media
+Este,Media,Buena,Bajo,Baja,Baja,Muy alta,Limitado,Bajo,Media
+Centro,Alta,Regular,Bajo,Media,Media,Baja,Limitado,Medio,Media
+Este,Media,Mala,Alto,Baja,Baja,Muy alta,Limitado,Alto,Media
+Centro,Alta,Buena,Moderado,Media,Alta,Media,Limitado,Medio,Baja
+Este,Media,Buena,Moderado,Baja,Baja,Muy alta,Inexistente,Bajo,Alta
+Este,Baja,Regular,Moderado,Alta,Alta,Muy alta,Adecuado,Medio,Alta
+Centro,Alta,Buena,Bajo,Baja,Baja,Media,Adecuado,Alto,Alta
+Centro,Alta,Mala,Bajo,Baja,Media,Media,Limitado,Bajo,Media
+Este,Alta,Mala,Bajo,Baja,Baja,Media,Adecuado,Medio,Media
+Norte,Alta,Buena,Alto,Baja,Baja,Muy alta,Adecuado,Alto,Alta
+Centro,Media,Buena,Bajo,Media,Alta,Muy alta,Limitado,Bajo,Media
+Norte,Alta,Regular,Alto,Alta,Media,Media,Limitado,Alto,Alta
+Norte,Baja,Mala,Moderado,Baja,Baja,Baja,Adecuado,Bajo,Alta
+Norte,Baja,Mala,Bajo,Media,Media,Baja,Inexistente,Medio,Alta
+Centro,Alta,Buena,Alto,Alta,Baja,Alta,Limitado,Alto,Alta
+Norte,Baja,Regular,Alto,Alta,Baja,Media,Inexistente,Bajo,Alta
+Centro,Alta,Mala,Bajo,Alta,Media,Alta,Adecuado,Alto,Alta
+Norte,Alta,Mala,Moderado,Alta,Baja,Baja,Limitado,Alto,Alta
+Este,Baja,Regular,Moderado,Baja,Media,Alta,Inexistente,Medio,Media
+Este,Alta,Regular,Moderado,Baja,Baja,Media,Limitado,Alto,Alta
+Centro,Baja,Mala,Alto,Media,Alta,Media,Adecuado,Bajo,Alta
+Este,Media,Mala,Alto,Media,Media,Media,Inexistente,Bajo,Media
+Este,Alta,Regular,Alto,Media,Baja,Muy alta,Adecuado,Bajo,Media
+Norte,Media,Mala,Alto,Alta,Baja,Alta,Adecuado,Bajo,Media
+Centro,Baja,Buena,Moderado,Alta,Alta,Baja,Limitado,Medio,Alta
+Norte,Media,Buena,Bajo,Baja,Media,Baja,Inexistente,Alto,Baja
+Norte,Media,Regular,Alto,Alta,Baja,Baja,Adecuado,Medio,Baja
+Norte,Baja,Regular,Alto,Alta,Alta,Muy alta,Adecuado,Alto,Media
+Norte,Media,Regular,Moderado,Alta,Baja,Muy alta,Inexistente,Alto,Baja
+Norte,Media,Buena,Bajo,Media,Media,Media,Adecuado,Alto,Media
+Norte,Baja,Mala,Bajo,Media,Baja,Baja,Adecuado,Medio,Alta
+Norte,Media,Buena,Moderado,Baja,Baja,Muy alta,Inexistente,Alto,Baja
+Centro,Baja,Mala,Moderado,Alta,Baja,Media,Inexistente,Medio,Alta
+Este,Media,Buena,Bajo,Alta,Baja,Baja,Inexistente,Bajo,Baja
+Norte,Baja,Mala,Alto,Baja,Alta,Alta,Inexistente,Bajo,Alta
+Norte,Baja,Buena,Bajo,Alta,Alta,Media,Limitado,Alto,Baja
+Norte,Media,Regular,Moderado,Alta,Media,Muy alta,Inexistente,Medio,Alta
+Norte,Media,Buena,Alto,Media,Alta,Muy alta,Limitado,Bajo,Alta
+Norte,Media,Mala,Alto,Baja,Alta,Media,Limitado,Medio,Baja
+Norte,Alta,Buena,Moderado,Baja,Media,Media,Limitado,Medio,Alta
+Este,Alta,Buena,Moderado,Baja,Alta,Muy alta,Adecuado,Alto,Alta
+Este,Alta,Buena,Moderado,Baja,Alta,Alta,Limitado,Bajo,Alta
+Norte,Baja,Regular,Bajo,Media,Media,Baja,Limitado,Alto,Baja
+Este,Media,Buena,Bajo,Media,Media,Alta,Adecuado,Alto,Baja
+Centro,Baja,Regular,Alto,Alta,Media,Media,Adecuado,Bajo,Alta
+Norte,Alta,Regular,Moderado,Alta,Baja,Alta,Adecuado,Bajo,Alta
+Centro,Media,Buena,Alto,Alta,Baja,Muy alta,Inexistente,Medio,Baja
+Centro,Baja,Buena,Alto,Alta,Media,Media,Adecuado,Bajo,Baja
+Norte,Media,Buena,Alto,Media,Media,Baja,Adecuado,Medio,Alta
+Este,Baja,Mala,Alto,Baja,Media,Muy alta,Limitado,Medio,Alta
+Centro,Media,Buena,Moderado,Media,Baja,Muy alta,Adecuado,Medio,Alta
+Norte,Alta,Regular,Alto,Alta,Baja,Baja,Inexistente,Bajo,Media
+Centro,Alta,Buena,Moderado,Media,Alta,Baja,Adecuado,Alto,Baja
+Centro,Media,Mala,Moderado,Baja,Alta,Alta,Inexistente,Medio,Media
+Centro,Baja,Buena,Bajo,Baja,Media,Media,Adecuado,Alto,Baja
+Centro,Alta,Mala,Moderado,Media,Baja,Baja,Adecuado,Alto,Baja
+Este,Alta,Mala,Bajo,Media,Baja,Baja,Adecuado,Bajo,Baja
+Centro,Alta,Buena,Moderado,Media,Baja,Media,Adecuado,Alto,Baja
+Centro,Media,Regular,Moderado,Alta,Media,Baja,Inexistente,Alto,Baja
+Centro,Media,Mala,Moderado,Media,Alta,Baja,Inexistente,Bajo,Baja
+Este,Baja,Buena,Bajo,Media,Media,Alta,Limitado,Medio,Baja
+Centro,Baja,Buena,Bajo,Media,Alta,Muy alta,Inexistente,Alto,Media
+Centro,Baja,Regular,Alto,Baja,Alta,Muy alta,Adecuado,Bajo,Alta
+Este,Media,Mala,Bajo,Baja,Media,Muy alta,Limitado,Alto,Alta
+Este,Media,Mala,Bajo,Alta,Alta,Muy alta,Limitado,Alto,Media
+Este,Baja,Buena,Bajo,Alta,Alta,Baja,Limitado,Medio,Media
+Centro,Baja,Buena,Bajo,Baja,Baja,Media,Adecuado,Alto,Media
+Este,Media,Regular,Alto,Baja,Alta,Media,Inexistente,Bajo,Media
+Este,Baja,Regular,Bajo,Baja,Media,Alta,Adecuado,Alto,Baja
+Centro,Alta,Mala,Moderado,Media,Media,Alta,Limitado,Medio,Alta
+Este,Media,Mala,Moderado,Media,Alta,Baja,Adecuado,Medio,Baja
+Centro,Baja,Buena,Bajo,Baja,Baja,Media,Adecuado,Bajo,Alta
+Norte,Media,Mala,Bajo,Media,Baja,Media,Inexistente,Medio,Alta
+Este,Alta,Regular,Moderado,Media,Alta,Muy alta,Inexistente,Alto,Media
+Norte,Media,Regular,Moderado,Alta,Alta,Baja,Limitado,Medio,Baja
+Centro,Media,Buena,Alto,Baja,Media,Baja,Adecuado,Bajo,Media
+Este,Media,Regular,Moderado,Baja,Alta,Muy alta,Adecuado,Medio,Baja
+Centro,Media,Regular,Moderado,Media,Baja,Baja,Inexistente,Medio,Alta
+Norte,Alta,Regular,Bajo,Baja,Alta,Baja,Adecuado,Medio,Media
+Centro,Media,Regular,Moderado,Alta,Media,Alta,Adecuado,Bajo,Media
+Este,Media,Buena,Alto,Alta,Media,Media,Adecuado,Medio,Alta
+Este,Baja,Buena,Moderado,Alta,Media,Baja,Inexistente,Medio,Alta
+Norte,Media,Mala,Bajo,Baja,Media,Alta,Limitado,Alto,Alta
+Centro,Baja,Regular,Bajo,Baja,Media,Media,Limitado,Bajo,Media
+Este,Alta,Mala,Moderado,Baja,Alta,Muy alta,Adecuado,Medio,Baja
+Norte,Alta,Buena,Bajo,Baja,Alta,Alta,Limitado,Bajo,Media
+Este,Alta,Buena,Alto,Baja,Alta,Alta,Inexistente,Medio,Baja
+Este,Alta,Buena,Alto,Alta,Alta,Media,Inexistente,Medio,Media
+Centro,Baja,Buena,Moderado,Media,Media,Muy alta,Limitado,Medio,Media
+Este,Media,Buena,Moderado,Alta,Baja,Alta,Limitado,Alto,Alta
+Centro,Alta,Buena,Moderado,Baja,Alta,Baja,Adecuado,Alto,Baja
+Este,Media,Buena,Bajo,Alta,Baja,Baja,Limitado,Alto,Media
+Norte,Baja,Regular,Alto,Baja,Alta,Baja,Adecuado,Bajo,Media
+Este,Baja,Mala,Alto,Baja,Alta,Muy alta,Adecuado,Bajo,Alta
+Centro,Baja,Buena,Bajo,Alta,Baja,Alta,Inexistente,Alto,Alta
+Centro,Alta,Regular,Alto,Baja,Media,Baja,Inexistente,Bajo,Baja
+Norte,Media,Regular,Moderado,Media,Alta,Muy alta,Inexistente,Medio,Media
+Este,Media,Mala,Moderado,Baja,Alta,Baja,Inexistente,Medio,Baja
+Este,Media,Buena,Moderado,Media,Alta,Media,Limitado,Medio,Media
+Norte,Baja,Mala,Alto,Media,Baja,Alta,Inexistente,Alto,Baja
+Este,Alta,Buena,Moderado,Baja,Media,Alta,Limitado,Bajo,Alta
+Este,Baja,Regular,Bajo,Alta,Baja,Muy alta,Inexistente,Alto,Media
+Centro,Baja,Regular,Bajo,Media,Baja,Muy alta,Limitado,Bajo,Baja
+Este,Media,Regular,Alto,Alta,Media,Alta,Adecuado,Medio,Alta
+Este,Baja,Regular,Bajo,Media,Baja,Baja,Limitado,Alto,Alta
+Norte,Media,Mala,Bajo,Baja,Media,Baja,Limitado,Bajo,Baja
+Norte,Alta,Buena,Alto,Baja,Alta,Media,Inexistente,Bajo,Media
+Centro,Media,Buena,Moderado,Media,Media,Baja,Limitado,Medio,Media
+Este,Alta,Mala,Moderado,Baja,Alta,Muy alta,Adecuado,Alto,Alta
+Este,Media,Buena,Moderado,Media,Baja,Muy alta,Adecuado,Alto,Media
+Este,Baja,Regular,Alto,Baja,Baja,Baja,Inexistente,Alto,Media
+Centro,Baja,Buena,Bajo,Alta,Alta,Muy alta,Adecuado,Medio,Media
+Centro,Alta,Regular,Moderado,Baja,Baja,Alta,Limitado,Alto,Alta
+Norte,Alta,Mala,Moderado,Alta,Media,Alta,Adecuado,Medio,Baja
+Centro,Alta,Buena,Alto,Baja,Alta,Baja,Inexistente,Medio,Media
+Este,Media,Mala,Moderado,Alta,Baja,Alta,Limitado,Medio,Alta
+Este,Media,Buena,Alto,Baja,Alta,Alta,Inexistente,Bajo,Alta
+Centro,Alta,Regular,Bajo,Alta,Media,Media,Limitado,Alto,Baja
+Este,Baja,Mala,Alto,Media,Media,Media,Adecuado,Alto,Media
+Este,Media,Buena,Alto,Media,Baja,Alta,Inexistente,Medio,Media
+Centro,Media,Regular,Alto,Alta,Media,Baja,Inexistente,Medio,Baja
+Centro,Media,Mala,Alto,Baja,Alta,Media,Limitado,Alto,Baja
+Este,Alta,Mala,Bajo,Alta,Media,Muy alta,Inexistente,Medio,Alta
+Este,Alta,Buena,Bajo,Baja,Alta,Muy alta,Limitado,Alto,Alta
+Este,Alta,Buena,Moderado,Media,Alta,Muy alta,Limitado,Bajo,Baja
+Norte,Alta,Buena,Bajo,Baja,Media,Baja,Limitado,Medio,Media
+Norte,Alta,Regular,Bajo,Media,Baja,Alta,Limitado,Alto,Alta
+Norte,Baja,Buena,Moderado,Baja,Media,Muy alta,Adecuado,Medio,Alta
+Centro,Baja,Mala,Bajo,Baja,Alta,Baja,Limitado,Alto,Media
+Norte,Alta,Mala,Alto,Baja,Alta,Media,Inexistente,Alto,Alta
+Centro,Media,Buena,Alto,Alta,Media,Alta,Adecuado,Medio,Media
+Centro,Alta,Buena,Moderado,Alta,Baja,Media,Inexistente,Bajo,Media
+Norte,Baja,Mala,Moderado,Media,Baja,Baja,Adecuado,Alto,Media
+Norte,Baja,Regular,Moderado,Media,Alta,Muy alta,Limitado,Alto,Baja
+Norte,Media,Buena,Alto,Alta,Alta,Muy alta,Adecuado,Alto,Baja
+Este,Baja,Buena,Bajo,Media,Baja,Baja,Adecuado,Bajo,Baja
+Norte,Alta,Mala,Alto,Alta,Media,Muy alta,Inexistente,Bajo,Media
+Este,Media,Buena,Moderado,Baja,Alta,Alta,Inexistente,Medio,Media
+Centro,Alta,Regular,Bajo,Media,Alta,Baja,Limitado,Bajo,Baja
+Este,Alta,Mala,Bajo,Media,Baja,Media,Adecuado,Medio,Alta
+Norte,Media,Buena,Alto,Alta,Media,Baja,Adecuado,Medio,Media
+Centro,Alta,Mala,Moderado,Media,Baja,Alta,Adecuado,Bajo,Alta
+Centro,Baja,Buena,Alto,Media,Media,Alta,Limitado,Medio,Alta
+Centro,Alta,Buena,Bajo,Baja,Media,Baja,Limitado,Bajo,Media
+Este,Media,Buena,Alto,Media,Media,Baja,Limitado,Medio,Media
+Norte,Media,Regular,Alto,Baja,Alta,Muy alta,Limitado,Bajo,Alta
+Centro,Media,Regular,Moderado,Alta,Baja,Alta,Limitado,Bajo,Alta
+Centro,Alta,Mala,Moderado,Media,Baja,Baja,Inexistente,Medio,Baja
+Centro,Media,Buena,Bajo,Baja,Media,Baja,Adecuado,Alto,Baja
+Este,Media,Buena,Alto,Alta,Alta,Alta,Adecuado,Medio,Media
+Este,Alta,Regular,Alto,Media,Alta,Baja,Adecuado,Bajo,Baja
+Norte,Baja,Buena,Alto,Alta,Baja,Muy alta,Adecuado,Alto,Baja
+Este,Alta,Regular,Bajo,Media,Alta,Alta,Adecuado,Medio,Baja
+Centro,Media,Buena,Bajo,Alta,Alta,Muy alta,Adecuado,Medio,Baja
+Norte,Media,Mala,Moderado,Alta,Media,Muy alta,Adecuado,Medio,Alta
+Centro,Alta,Buena,Moderado,Baja,Alta,Muy alta,Adecuado,Alto,Media
+Centro,Baja,Buena,Moderado,Alta,Media,Muy alta,Inexistente,Bajo,Baja
+Este,Media,Regular,Alto,Media,Baja,Alta,Adecuado,Medio,Alta
+Norte,Media,Buena,Alto,Media,Alta,Muy alta,Inexistente,Medio,Alta
+Este,Media,Buena,Moderado,Baja,Baja,Muy alta,Limitado,Medio,Alta
+Este,Alta,Regular,Alto,Media,Baja,Baja,Adecuado,Medio,Baja
+Norte,Media,Mala,Moderado,Media,Alta,Alta,Limitado,Medio,Baja
+Centro,Baja,Mala,Bajo,Media,Alta,Alta,Limitado,Bajo,Media
+Centro,Media,Regular,Moderado,Alta,Baja,Media,Limitado,Bajo,Baja
+Norte,Media,Regular,Bajo,Alta,Alta,Alta,Inexistente,Medio,Baja
+Centro,Baja,Regular,Alto,Media,Media,Alta,Limitado,Alto,Alta
+Norte,Media,Regular,Moderado,Baja,Media,Media,Limitado,Bajo,Media
+Norte,Alta,Regular,Alto,Alta,Alta,Alta,Limitado,Alto,Baja
+Este,Alta,Mala,Bajo,Baja,Baja,Alta,Adecuado,Bajo,Baja
+Norte,Alta,Mala,Bajo,Media,Alta,Alta,Adecuado,Medio,Alta
+Este,Baja,Regular,Bajo,Media,Alta,Alta,Inexistente,Bajo,Alta
+Centro,Media,Buena,Alto,Alta,Baja,Media,Inexistente,Medio,Baja
+Centro,Alta,Regular,Alto,Media,Baja,Alta,Adecuado,Bajo,Media
+Centro,Baja,Buena,Alto,Alta,Media,Alta,Inexistente,Medio,Media
+Centro,Media,Regular,Alto,Media,Baja,Media,Adecuado,Medio,Alta
+Este,Baja,Regular,Bajo,Media,Media,Baja,Limitado,Medio,Alta
+Centro,Alta,Mala,Bajo,Alta,Baja,Muy alta,Limitado,Medio,Baja
+Norte,Alta,Buena,Moderado,Alta,Alta,Baja,Inexistente,Alto,Alta
+Norte,Alta,Buena,Moderado,Alta,Media,Media,Adecuado,Medio,Baja
+Norte,Baja,Mala,Alto,Media,Media,Muy alta,Adecuado,Alto,Media
+Este,Baja,Mala,Bajo,Media,Media,Media,Inexistente,Alto,Media
+Centro,Alta,Mala,Bajo,Baja,Alta,Media,Adecuado,Medio,Baja
+Centro,Baja,Mala,Bajo,Alta,Alta,Alta,Limitado,Alto,Alta
+Centro,Alta,Buena,Moderado,Media,Alta,Muy alta,Inexistente,Bajo,Media
+Este,Alta,Buena,Moderado,Media,Alta,Alta,Inexistente,Medio,Alta
+Norte,Media,Regular,Bajo,Alta,Alta,Muy alta,Adecuado,Alto,Media
+Norte,Baja,Regular,Bajo,Baja,Media,Media,Inexistente,Medio,Baja
+Centro,Alta,Mala,Bajo,Alta,Alta,Media,Adecuado,Medio,Baja
+Norte,Alta,Mala,Moderado,Baja,Media,Baja,Adecuado,Medio,Baja
+Norte,Baja,Mala,Bajo,Media,Alta,Muy alta,Adecuado,Alto,Media
+Este,Media,Regular,Bajo,Baja,Baja,Alta,Adecuado,Bajo,Alta
+Este,Media,Regular,Alto,Media,Media,Baja,Adecuado,Bajo,Alta
+Este,Alta,Regular,Alto,Alta,Baja,Baja,Inexistente,Alto,Alta
+Este,Baja,Regular,Moderado,Alta,Media,Baja,Limitado,Medio,Media
+Centro,Media,Regular,Bajo,Alta,Baja,Alta,Limitado,Alto,Media
+Este,Baja,Regular,Bajo,Baja,Alta,Baja,Inexistente,Alto,Media
+Norte,Baja,Regular,Alto,Media,Alta,Alta,Inexistente,Alto,Media
+Centro,Alta,Mala,Moderado,Alta,Alta,Baja,Limitado,Medio,Media
+Norte,Media,Mala,Alto,Alta,Media,Alta,Limitado,Alto,Alta
+Norte,Alta,Mala,Alto,Media,Baja,Media,Limitado,Medio,Media
+Norte,Media,Mala,Alto,Alta,Alta,Media,Limitado,Alto,Media
+Este,Media,Regular,Alto,Media,Baja,Media,Limitado,Bajo,Alta
+Este,Media,Buena,Bajo,Media,Baja,Media,Adecuado,Alto,Media
+Centro,Media,Regular,Bajo,Media,Alta,Media,Inexistente,Alto,Alta
+Centro,Media,Buena,Alto,Media,Alta,Baja,Adecuado,Bajo,Alta
+Este,Baja,Mala,Moderado,Media,Baja,Baja,Limitado,Medio,Baja
+Norte,Alta,Regular,Moderado,Baja,Alta,Baja,Limitado,Medio,Baja
+Centro,Baja,Mala,Moderado,Alta,Alta,Alta,Limitado,Alto,Baja
+Este,Media,Regular,Moderado,Baja,Alta,Alta,Adecuado,Bajo,Baja
+Este,Alta,Mala,Alto,Alta,Media,Alta,Adecuado,Medio,Media
+Este,Media,Buena,Bajo,Baja,Baja,Alta,Limitado,Alto,Baja
+Norte,Alta,Buena,Moderado,Media,Baja,Media,Adecuado,Bajo,Alta
+Este,Baja,Buena,Alto,Alta,Media,Media,Adecuado,Medio,Media
+Este,Alta,Regular,Moderado,Alta,Baja,Media,Limitado,Medio,Baja
+Este,Alta,Buena,Moderado,Baja,Alta,Muy alta,Adecuado,Bajo,Alta
+Este,Alta,Regular,Alto,Baja,Baja,Baja,Inexistente,Bajo,Media
+Centro,Alta,Buena,Bajo,Alta,Alta,Alta,Inexistente,Bajo,Media
+Centro,Alta,Buena,Bajo,Baja,Media,Alta,Inexistente,Bajo,Baja
+Este,Media,Regular,Alto,Baja,Alta,Media,Inexistente,Alto,Media
+Norte,Alta,Regular,Bajo,Baja,Baja,Alta,Limitado,Bajo,Alta
+Centro,Alta,Buena,Alto,Media,Baja,Alta,Limitado,Medio,Media
+Este,Baja,Regular,Alto,Media,Baja,Baja,Limitado,Medio,Alta
+Centro,Alta,Buena,Alto,Baja,Media,Media,Inexistente,Alto,Media
+Centro,Baja,Regular,Bajo,Baja,Media,Baja,Inexistente,Medio,Baja
+Norte,Media,Mala,Alto,Media,Baja,Muy alta,Adecuado,Medio,Alta
+Este,Alta,Mala,Moderado,Media,Alta,Muy alta,Adecuado,Bajo,Media
+Este,Baja,Mala,Bajo,Alta,Media,Muy alta,Inexistente,Medio,Media
+Norte,Baja,Mala,Bajo,Alta,Baja,Media,Inexistente,Alto,Media
+Norte,Media,Mala,Bajo,Media,Baja,Alta,Inexistente,Bajo,Alta
+Este,Alta,Buena,Bajo,Baja,Media,Media,Inexistente,Bajo,Alta
+Este,Alta,Mala,Moderado,Baja,Media,Media,Adecuado,Alto,Alta
+Norte,Baja,Mala,Bajo,Baja,Media,Alta,Inexistente,Bajo,Baja
+Centro,Alta,Mala,Bajo,Baja,Alta,Baja,Adecuado,Bajo,Baja
+Centro,Baja,Mala,Alto,Alta,Alta,Muy alta,Inexistente,Alto,Alta
+Norte,Alta,Regular,Bajo,Media,Baja,Baja,Inexistente,Bajo,Media
+Centro,Baja,Buena,Moderado,Baja,Media,Muy alta,Inexistente,Alto,Baja
+Norte,Alta,Mala,Moderado,Alta,Alta,Media,Adecuado,Alto,Alta
+Centro,Media,Mala,Moderado,Baja,Media,Muy alta,Adecuado,Medio,Media
+Centro,Alta,Mala,Moderado,Media,Baja,Media,Limitado,Medio,Baja
+Este,Alta,Buena,Bajo,Alta,Alta,Baja,Inexistente,Bajo,Media
+Este,Media,Regular,Bajo,Media,Alta,Media,Limitado,Bajo,Media
+Centro,Alta,Buena,Moderado,Media,Alta,Baja,Limitado,Alto,Media
+Centro,Media,Regular,Moderado,Alta,Baja,Alta,Adecuado,Bajo,Media
+Este,Alta,Mala,Bajo,Alta,Media,Alta,Adecuado,Alto,Baja
+Este,Baja,Mala,Moderado,Alta,Alta,Alta,Limitado,Alto,Baja
+Este,Baja,Buena,Alto,Alta,Baja,Media,Inexistente,Bajo,Baja
+Norte,Alta,Buena,Moderado,Alta,Media,Alta,Adecuado,Alto,Alta
+Centro,Alta,Regular,Moderado,Alta,Baja,Muy alta,Inexistente,Medio,Baja
+Este,Alta,Regular,Alto,Alta,Media,Baja,Inexistente,Bajo,Media
+Centro,Baja,Buena,Alto,Baja,Baja,Baja,Limitado,Medio,Baja
+Norte,Alta,Regular,Bajo,Media,Media,Muy alta,Limitado,Bajo,Media
+Norte,Baja,Buena,Bajo,Alta,Alta,Media,Limitado,Alto,Alta
+Este,Media,Regular,Alto,Baja,Media,Media,Limitado,Bajo,Media
+Norte,Baja,Buena,Alto,Baja,Baja,Baja,Adecuado,Medio,Media
+Centro,Baja,Buena,Bajo,Baja,Baja,Alta,Adecuado,Alto,Media
+Este,Media,Buena,Moderado,Media,Media,Media,Limitado,Bajo,Alta
+Centro,Baja,Regular,Alto,Alta,Alta,Media,Adecuado,Bajo,Baja
+Centro,Alta,Regular,Bajo,Baja,Alta,Muy alta,Limitado,Bajo,Baja
+Norte,Alta,Regular,Moderado,Media,Media,Muy alta,Inexistente,Medio,Alta
+Norte,Baja,Buena,Alto,Media,Media,Alta,Inexistente,Medio,Media
+Norte,Alta,Regular,Moderado,Media,Baja,Media,Inexistente,Bajo,Baja
+Norte,Baja,Regular,Bajo,Baja,Alta,Media,Limitado,Alto,Alta
+Norte,Alta,Buena,Alto,Alta,Media,Muy alta,Inexistente,Alto,Baja
