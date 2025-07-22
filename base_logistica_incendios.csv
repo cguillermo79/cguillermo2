@@ -1,4 +1,4 @@
-﻿Temperatura_C;Humedad_%;Pendiente_grados;Uso_Suelo;Cobertura_Vegetal;Distancia_Camino_m;Incendio
+﻿Temperatura;Humedad;Pendiente;Uso_Suelo;Cobertura;Distancia_Camino_m;Incendio
 29,2;82,6;43,3;Bosque;Media;273,5;1
 27,7;74,4;16,9;Bosque;Media;668,9;1
 29,6;71,8;12,9;Bosque;Alta;136,4;1
