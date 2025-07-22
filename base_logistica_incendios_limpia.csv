@@ -1,0 +1,11 @@
+Temperatura,Humedad,Pendiente,Uso_Suelo,Cobertura,Distancia,Incendio
+25.3,70,15,Agrícola,Alta,100,1
+27.8,65,20,Bosque,Media,200,0
+30.1,60,35,Urbano,Baja,50,1
+28.7,68,10,Bosque,Media,300,0
+29.5,66,25,Agrícola,Alta,150,1
+24.2,72,12,Urbano,Baja,80,0
+26.9,75,30,Agrícola,Alta,60,1
+31.0,58,40,Bosque,Media,400,0
+27.3,67,18,Urbano,Baja,220,1
+28.1,64,22,Bosque,Media,180,0
